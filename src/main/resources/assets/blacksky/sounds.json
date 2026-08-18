@@ -1,0 +1,164 @@
+{
+  "kolokolnia_kill": {
+    "sounds": [
+      "blacksky:other/kill_effect/kolokolnia_kill"
+    ]
+  },
+  "moan1": {
+    "sounds": [
+      "blacksky:hit_sounds/moan1"
+    ]
+  },
+  "moan2": {
+    "sounds": [
+      "blacksky:hit_sounds/moan2"
+    ]
+  },
+  "moan3": {
+    "sounds": [
+      "blacksky:hit_sounds/moan3"
+    ]
+  },
+  "moan4": {
+    "sounds": [
+      "blacksky:hit_sounds/moan4"
+    ]
+  },
+  "module_disable": {
+    "sounds": [
+      "blacksky:module_sounds/off"
+    ]
+  },
+  "module_enable": {
+    "sounds": [
+      "blacksky:module_sounds/on"
+    ]
+  },
+  "off": {
+    "sounds": [
+      "blacksky:module_sounds/off2"
+    ]
+  },
+  "on": {
+    "sounds": [
+      "blacksky:module_sounds/on2"
+    ]
+  },
+  "crime": {
+    "sounds": [
+      "blacksky:hit_sounds/crime"
+    ]
+  },
+  "frag_effect_echo_main": {
+    "sounds": [
+      "blacksky:charmsfxpack/echocharmmain"
+    ]
+  },
+  "frag_effect_knock_main": {
+    "sounds": [
+      "blacksky:charmsfxpack/knockcharmmain"
+    ]
+  },
+  "frag_effect_pulse": {
+    "sounds": [
+      "blacksky:charmsfxpack/pulsecharmdistant0",
+      "blacksky:charmsfxpack/pulsecharmdistant1",
+      "blacksky:charmsfxpack/pulsecharmdistant2",
+      "blacksky:charmsfxpack/pulsecharmdistant3",
+      "blacksky:charmsfxpack/pulsecharmdistant4"
+    ]
+  },
+  "frag_effect_sparks_collision": {
+    "sounds": [
+      "blacksky:charmsfxpack/sparkscollisionneared"
+    ]
+  },
+  "metallic": {
+    "sounds": [
+      "blacksky:hit_sounds/metallic"
+    ]
+  },
+  "welcome": {
+    "sounds": [
+      "blacksky:other/notification/notif"
+    ]
+  },
+  "module_enable_type2": {
+    "sounds": [
+      "blacksky:module_sounds/on1"
+    ]
+  },
+  "module_disable_type2": {
+    "sounds": [
+      "blacksky:module_sounds/off1"
+    ]
+  },
+  "mine": {
+    "sounds": [
+      "blacksky:other/auto_mine/mine"
+    ]
+  },
+  "accountswitch": {
+    "sounds": [
+      "blacksky:alt_manager/accountswitch"
+    ]
+  },
+  "searchtyping": {
+    "sounds": [
+      "blacksky:clickgui/searchtyping"
+    ]
+  },
+  "slider": {
+    "sounds": [
+      "blacksky:clickgui/slider"
+    ]
+  },
+  "switchcategory": {
+    "sounds": [
+      "blacksky:clickgui/switchcategory"
+    ]
+  },
+  "no-settings": {
+    "sounds": [
+      "blacksky:clickgui/no-settings"
+    ]
+  },
+  "buttonclick": {
+    "sounds": [
+      "blacksky:clickgui/buttonclick"
+    ]
+  },
+  "unknowncommand": {
+    "sounds": [
+      "blacksky:commands/unknowncommand"
+    ]
+  },
+  "entity.ribbit.ambient": {
+    "sounds": [
+      "blacksky:entity/ribbit_ambient1",
+      "blacksky:entity/ribbit_ambient2",
+      "blacksky:entity/ribbit_ambient3",
+      "blacksky:entity/ribbit_ambient4",
+      "blacksky:entity/ribbit_ambient5"
+    ]
+  },
+  "entity.ribbit.step": {
+    "sounds": [
+      "blacksky:entity/ribbit_step1",
+      "blacksky:entity/ribbit_step2"
+    ]
+  },
+  "entity.ribbit.hurt": {
+    "sounds": [
+      "blacksky:entity/ribbit_hurt1",
+      "blacksky:entity/ribbit_hurt2",
+      "blacksky:entity/ribbit_hurt3"
+    ]
+  },
+  "entity.ribbit.death": {
+    "sounds": [
+      "blacksky:entity/ribbit_death1",
+      "blacksky:entity/ribbit_death2"
+    ]
+  }
+}
